@@ -1,4 +1,7 @@
-
+/*
+HC-SR04 Ultrasonic Sensor
+Arduino UNO
+*/
 long dis1,dis2,dis3;
 long dur1,dur2,dur3;
 
