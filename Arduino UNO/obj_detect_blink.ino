@@ -1,4 +1,7 @@
-
+/*
+HC-SR04 Ultrasonic Sensor
+Arduino UNO
+*/
 long distance;
 long duration;
 
